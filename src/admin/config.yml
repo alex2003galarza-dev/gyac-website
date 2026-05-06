@@ -1,0 +1,25 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "src/assets/uploads"
+public_folder: "/assets/uploads"
+
+collections:
+  - name: "settings"
+    label: "Site Settings"
+    files:
+      - name: "homepage"
+        label: "Homepage"
+        file: "src/index.njk"
+        fields:
+          - { label: "Hero Image", name: "hero_image", widget: "image" }
+          - { label: "Hero Title", name: "hero_title", widget: "string" }
+          - { label: "Hero Subtitle", name: "hero_subtitle", widget: "string" }
+          - { label: "Goals Section Image", name: "goals_image", widget: "image" }
+          - { label: "About Section Image", name: "about_image", widget: "image" }
+          - { label: "Gallery Photo 1 (Large)", name: "gallery_photo_1", widget: "image" }
+          - { label: "Gallery Photo 2", name: "gallery_photo_2", widget: "image" }
+          - { label: "Gallery Photo 3", name: "gallery_photo_3", widget: "image" }
+          - { label: "Gallery Photo 4", name: "gallery_photo_4", widget: "image" }
+          - { label: "Gallery Photo 5", name: "gallery_photo_5", widget: "image" }
