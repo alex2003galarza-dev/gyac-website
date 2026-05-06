@@ -1,3 +1,6 @@
 [build]
-  command = "npm run build"
+  command = "npm ci && ./node_modules/.bin/eleventy"
   publish = "_site/src"
+
+[build.environment]
+  NODE_VERSION = "18"
