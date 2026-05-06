@@ -1,12 +1,12 @@
 {
-  "hero_image": "https://galesburgyouthathleticclub.com/wp-content/uploads/2018/11/229BoxBurg_082518_0857-1024x683.jpg",
-  "hero_title": "Building for the Future",
-  "hero_subtitle": "A positive alternative to drugs, gangs & violence — through Olympic-style boxing.",
-  "goals_image": "https://galesburgyouthathleticclub.com/wp-content/uploads/2018/11/028_GYAC_Group_020817_6514-1024x683.jpg",
   "about_image": "https://galesburgyouthathleticclub.com/wp-content/uploads/2018/11/374BoxBurg_082518_1076-1024x683.jpg",
+  "hero_title": "Building for the Future",
+  "hero_image": "https://res.cloudinary.com/usopc-prod/image/upload/v1762547850/NGB%20Boxing/2025/Feature%20Story%20Title%20Graphics/Membership_Adjustment_Announcement_Story_Graphic.png",
   "gallery_photo_1": "https://galesburgyouthathleticclub.com/wp-content/uploads/2018/11/055_GYAC_Candids_040317_9047-1024x683.jpg",
   "gallery_photo_2": "https://galesburgyouthathleticclub.com/wp-content/uploads/2018/11/030_GYAC_Candids_032217_8644-1024x683.jpg",
   "gallery_photo_3": "https://galesburgyouthathleticclub.com/wp-content/uploads/2018/10/Galesburg-Youth-Athletic-Club-1.jpg",
   "gallery_photo_4": "https://galesburgyouthathleticclub.com/wp-content/uploads/2018/11/125_GYAC_Candids_032217_8766-1024x683.jpg",
-  "gallery_photo_5": "https://galesburgyouthathleticclub.com/wp-content/uploads/2018/11/017_GYAC_Candids_040317_9007-300x200.jpg"
+  "gallery_photo_5": "https://galesburgyouthathleticclub.com/wp-content/uploads/2018/11/017_GYAC_Candids_040317_9007-300x200.jpg",
+  "goals_image": "https://galesburgyouthathleticclub.com/wp-content/uploads/2018/11/028_GYAC_Group_020817_6514-1024x683.jpg",
+  "hero_subtitle": "A positive alternative to drugs, gangs & violence — through Olympic-style boxing."
 }
