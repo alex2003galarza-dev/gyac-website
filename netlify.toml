@@ -1,5 +1,5 @@
 [build]
-  command = "npm ci && ./node_modules/.bin/eleventy"
+  command = "npm ci && npx @11ty/eleventy && cp src/admin/config.yml _site/src/admin/config.yml"
   publish = "_site/src"
 
 [build.environment]
