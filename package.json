@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "eleventy"
+    "build": "node_modules/.bin/eleventy"
   },
   "keywords": [],
   "author": "",
