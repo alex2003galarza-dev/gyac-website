@@ -1,6 +1,0 @@
-[build]
-  command = "npm ci && npx @11ty/eleventy && cp src/admin/config.yml _site/src/admin/config.yml"
-  publish = "_site/src"
-
-[build.environment]
-  NODE_VERSION = "18"
